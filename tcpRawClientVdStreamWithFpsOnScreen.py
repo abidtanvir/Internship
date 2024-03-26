@@ -1,3 +1,4 @@
+#DONE! Working code for TCP that sends video to server. Server shows the FPS on opencv Window
 import cv2
 import socket
 import pickle
