@@ -1,0 +1,9 @@
+Flask server streaming video in the web browser. prints the FPS in the server consol (Not in the browser Consol)
+Video can be accessed via localhost:5000 in the same machine. 
+For different Machine in the same network: 192..(Server machine IP):5000
+
+The server.py File, folder: templates and the folder:static needs to be in the same directory
+
+In folder templates: index.html
+
+In folder static: client.js
