@@ -6,4 +6,4 @@ The server.py File, folder: templates and the folder:static needs to be in the s
 
 In folder templates: index.html
 
-In folder static: client.js
+In folder static: main.js
