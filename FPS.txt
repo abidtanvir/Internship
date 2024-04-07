@@ -1,0 +1,185 @@
+WebRTC
+
+OpenCV.js is ready
+client.js:49 FPS: 3.25
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.74
+client.js:49 FPS: 3.79
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+3client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+2client.js:49 FPS: 3.76
+2client.js:49 FPS: 3.77
+2client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+3client.js:49 FPS: 3.76
+client.js:49 FPS: 3.71
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.75
+client.js:49 FPS: 3.78
+client.js:49 FPS: 3.74
+client.js:49 FPS: 3.79
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+2client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.72
+client.js:49 FPS: 3.81
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.77
+client.js:49 FPS: 3.76
+client.js:49 FPS: 3.75
+_________________________________________________________
+
+TCP Raw:
+FPS: 0.67
+FPS: 0.77
+FPS: 0.71
+FPS: 0.74
+FPS: 0.20
+FPS: 0.79
+FPS: 0.62
+FPS: 0.25
+FPS: 0.63
+FPS: 0.61
+FPS: 0.67
+FPS: 0.36
+FPS: 0.74
+FPS: 0.75
+FPS: 0.63
+FPS: 0.61
+FPS: 0.63
+FPS: 0.58
+FPS: 0.12
+FPS: 0.79
+FPS: 0.69
+FPS: 0.67
+FPS: 0.26
+FPS: 0.69
+FPS: 0.64
+FPS: 0.74
+FPS: 0.47
+FPS: 0.68
+FPS: 0.73
+FPS: 0.92
+FPS: 0.47
+FPS: 0.92
+FPS: 0.97
+FPS: 0.94
+FPS: 0.91
+FPS: 0.85
+FPS: 0.82
+FPS: 0.90
+FPS: 0.95
+FPS: 0.90
+FPS: 0.89
+FPS: 0.95
+FPS: 0.91
+FPS: 0.83
+FPS: 0.81
+FPS: 0.92
+FPS: 0.90
+FPS: 0.91
+FPS: 0.86
+FPS: 0.87
+FPS: 0.84
+FPS: 0.81
+FPS: 0.79
+FPS: 0.47
+FPS: 0.79
+_________________________________________________________
+
+Web Socket:
+INFO:root:FPS: 0.54
+INFO:root:FPS: 2.05
+INFO:root:FPS: 1.76
+INFO:root:FPS: 1.96
+INFO:root:FPS: 1.94
+INFO:root:FPS: 1.88
+INFO:root:FPS: 1.72
+INFO:root:FPS: 1.91
+INFO:root:FPS: 1.97
+INFO:root:FPS: 1.74
+INFO:root:FPS: 1.93
+INFO:root:FPS: 1.96
+INFO:root:FPS: 1.74
+INFO:root:FPS: 1.87
+INFO:root:FPS: 1.93
+INFO:root:FPS: 1.91
+INFO:root:FPS: 1.68
+INFO:root:FPS: 1.91
+INFO:root:FPS: 1.90
+INFO:root:FPS: 1.91
+INFO:root:FPS: 1.75
+INFO:root:FPS: 1.89
+INFO:root:FPS: 1.88
+INFO:root:FPS: 0.98
+INFO:root:FPS: 3.47
+INFO:root:FPS: 1.84
+INFO:root:FPS: 1.90
+INFO:root:FPS: 1.88
+INFO:root:FPS: 1.77
+INFO:root:FPS: 1.95
+INFO:root:FPS: 1.91
+INFO:root:FPS: 1.73
+INFO:root:FPS: 1.89
+_________________________________________________________
+
+HTTP:
+FPS: 2.531934
+FPS: 1.844035
+FPS: 1.872112
+FPS: 1.870279
+FPS: 1.878488
+FPS: 1.846793
+FPS: 1.909033
+FPS: 1.777374
+FPS: 1.957908
+FPS: 1.785473
+FPS: 1.964591
+FPS: 1.858911
+FPS: 1.865804
+FPS: 1.871704
+FPS: 1.863075
+FPS: 1.856049
+FPS: 1.866197
+FPS: 1.872951
+FPS: 1.859299
+FPS: 1.868277
+FPS: 1.869902
+FPS: 1.858855
+FPS: 1.873908
+FPS: 1.859350
+FPS: 1.842599
+FPS: 1.852990
+FPS: 1.859313
+FPS: 1.866427
+FPS: 1.857220
+FPS: 1.786038
+FPS: 1.839041
+FPS: 1.865100
+FPS: 1.885341
+FPS: 1.839502
+FPS: 1.924284
+FPS: 1.817437
+FPS: 1.864713
+FPS: 1.902569
+FPS: 1.828199
+FPS: 1.868076
+FPS: 1.886248
+FPS: 1.841630
+FPS: 1.921011
+FPS: 1.810736
+FPS: 1.877263
+FPS: 1.888385
+
+_________________________________________________________
